@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My_Card_App</string>
+    <string name="nameTextView"> </string>
+    <string name="mailTextView"> </string>
+    <string name="tellTextView"> </string>
+    <string name="jobTextView"> </string>
 </resources>
